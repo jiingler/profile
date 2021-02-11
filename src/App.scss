@@ -1,13 +1,7 @@
-@import "./style/variables.scss";
-@import "./style/font/font-weight.scss";
-@import "./style/Header.scss";
-@import "./style/layout.scss";
-@import "./style/ItemTitle.scss";
-@import "./style/Profile.scss";
-@import "./style/Experiences.scss";
-@import "./style/Abilities.scss";
-@import "./style/Projects.scss";
-@import "./style/Contact.scss";
+@import "./style/variables";
+@import "./style/font";
+@import "./style/components";
+@import "./style/layout";
 
 html,
 body,

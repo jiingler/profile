@@ -5,6 +5,8 @@
     font-size: 1.5rem;
   }
   .content {
-    border-left: 1px solid #888;
+    @media (min-width: 768px) {
+      border-left: 1px solid #888;
+    }
   }
 }

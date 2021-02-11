@@ -6,10 +6,10 @@ const Profile = () => {
     <div id="profile" className="profile section">
       <ItemTitle titleName="Profile" description="this is profile"/>
       <div className="row d-flex">
-        <div className="col-lg-4">
-          <img className="profile-img" src={profileImg} alt="profile-img" />
+        <div className="profile-img col-lg-4 col-12">
+          <img src={profileImg} alt="profile-img" />
         </div>
-        <div className="info col-lg-8">
+        <div className="info col-lg-8 col-12">
           <h3 className="title">Basic info</h3>
           <ul className="content">
             <li>

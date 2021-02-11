@@ -8,34 +8,38 @@ const Contact = () => {
   return (
     <div id="contact" className="contact section">
       <ItemTitle titleName="Contact" description="this is Contact"/>
-      <div className="row px-5">
-        <div className="contact-item col-lg-6 my-3">
+      <div className="links row">
+        <div className="contact-item col-md-6 col-3 my-md-3 my-2">
           <a href="mailto:jinglelin82@gmail.com">
             <div className="img-container">
               <img src={emailImg} alt="email-icon"/>
             </div>
-            jinglelin82@gmail.com</a>
+            <p className="d-md-block d-none">jinglelin82@gmail.com</p>
+          </a>
         </div>
-        <div className="contact-item col-lg-6 my-3">
+        <div className="contact-item col-md-6 col-3 my-md-3 my-2">
           <a href="https://www.linkedin.com/in/jingle-lin-157260139/">
             <div className="img-container">
               <img src={linkedinImg} alt="linkedin-icon"/>
             </div>
-            Lin Ping Chun</a>
+            <p className="d-md-block d-none">Lin Ping Chun</p>
+          </a>
         </div>
-        <div className="contact-item col-lg-6 my-3">
+        <div className="contact-item col-md-6 col-3 my-md-3 my-2">
           <a href="https://instagram.com/brocnpotato">
             <div className="img-container">
               <img src={insImg} alt="instagram-icon"/>
             </div>
-            brocnpotato</a>
+            <p className="d-md-block d-none">brocnpotato</p>
+          </a>
         </div>
-        <div className="contact-item col-lg-6 my-3">
+        <div className="contact-item col-md-6 col-3 my-md-3 my-2">
           <a href="https://medium.com/jiingler">
             <div className="img-container">
               <img src={mediumImg} alt="medium-icon"/>
             </div>
-            jiingler</a>
+            <p className="d-md-block d-none">jiingler</p>
+          </a>
         </div>
       </div>
     </div>
