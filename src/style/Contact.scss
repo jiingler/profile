@@ -1,0 +1,28 @@
+.contact {
+  background-color: #363b41;
+  &-item {
+    text-align: center;
+    .img-container {
+      background-color: #b3b3b3;
+      width: 50px;
+      height: 50px;
+      border-radius: 10%;
+      margin-right: 1rem;
+      img {
+        width: 30px;
+        height: 50px;
+      }
+    }
+    a {
+      display: flex;
+      align-items: center;
+      color: #b3b3b3;
+      &:hover {
+        color: #fff;
+        .img-container {
+          background-color: #fff;
+        }
+      }
+    }
+  }
+}

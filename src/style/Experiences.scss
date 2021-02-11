@@ -1,0 +1,10 @@
+.experiences {
+  background-color: $secondary;
+  .title {
+    color: $primary;
+    font-size: 1.5rem;
+  }
+  .content {
+    border-left: 1px solid #888;
+  }
+}

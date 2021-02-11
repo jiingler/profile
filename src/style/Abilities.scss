@@ -1,0 +1,18 @@
+.abilities {
+  .title {
+    color: $primary;
+    font-size: 1.5rem;
+  }
+  .level {
+    background-color: #f3f3f3;
+    &-title {
+      color: $primary;
+    }
+    li {
+      font-size: 0.8rem;
+      &:not(:last-child) {
+        margin-bottom: 0.5rem;
+      }
+    }
+  }
+}

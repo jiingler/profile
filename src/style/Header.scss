@@ -1,0 +1,41 @@
+.jumbotron {
+  background: no-repeat center right fixed url(../assets/images/bg1.jpg);
+  background-size: cover;
+  height: 100%;
+}
+
+.header {
+  position: relative;
+  top: 35%;
+  z-index: 4;
+  text-align: center;
+  padding: 40px 180px;
+  .title,
+  .subtitle {
+    color: #fff;
+    font-family: "Lora", serif;
+  }
+  .title {
+    display: inline-block;
+    font-size: 4rem;
+    font-weight: 900;
+    border-bottom: 1px solid #fff;
+    padding-bottom: 20px;
+    margin-bottom: 10px;
+  }
+  .subtitle {
+    font-size: 1.5rem;
+  }
+}
+
+.overlay {
+  background-color: $primary;
+  position: absolute;
+  top: 0px;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+  opacity: 0.5;
+  filter: alpha(opacity=75);
+  z-index: 2;
+}
