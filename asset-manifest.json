@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/profile/static/css/main.d03791d0.chunk.css",
+    "main.css": "/profile/static/css/main.2415ee04.chunk.css",
     "main.js": "/profile/static/js/main.0d954c1d.chunk.js",
     "main.js.map": "/profile/static/js/main.0d954c1d.chunk.js.map",
     "runtime-main.js": "/profile/static/js/runtime-main.43a80f52.js",
@@ -12,7 +12,7 @@
     "static/js/3.f3909e7b.chunk.js.map": "/profile/static/js/3.f3909e7b.chunk.js.map",
     "index.html": "/profile/index.html",
     "static/css/2.0978f8b3.chunk.css.map": "/profile/static/css/2.0978f8b3.chunk.css.map",
-    "static/css/main.d03791d0.chunk.css.map": "/profile/static/css/main.d03791d0.chunk.css.map",
+    "static/css/main.2415ee04.chunk.css.map": "/profile/static/css/main.2415ee04.chunk.css.map",
     "static/js/2.89e95396.chunk.js.LICENSE.txt": "/profile/static/js/2.89e95396.chunk.js.LICENSE.txt",
     "static/media/email.b5eaaaba.svg": "/profile/static/media/email.b5eaaaba.svg",
     "static/media/instagram.482d4132.svg": "/profile/static/media/instagram.482d4132.svg",
@@ -24,7 +24,7 @@
     "static/js/runtime-main.43a80f52.js",
     "static/css/2.0978f8b3.chunk.css",
     "static/js/2.89e95396.chunk.js",
-    "static/css/main.d03791d0.chunk.css",
+    "static/css/main.2415ee04.chunk.css",
     "static/js/main.0d954c1d.chunk.js"
   ]
 }
