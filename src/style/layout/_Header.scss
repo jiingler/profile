@@ -1,7 +1,14 @@
 .jumbotron {
-  background: no-repeat center right fixed url(../../assets/images/bg1.jpg);
-  background-size: 100% 100%;
+  background-image: url(../../assets/images/bg1.jpg);
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size: cover;
+  background-position: center;
   height: 100%;
+  width: 100%;
+  @media (min-width: 768px) {
+    background-attachment: fixed;
+  }
 }
 
 .header {
