@@ -1,0 +1,46 @@
+{
+  "header-title": "임푼군 Lin Ping Chun",
+  "header-subtitle": "프론트엔드 엔지니어 Front-End Developer",
+  "basic-info": "기본정보",
+  "name-title": "이름:",
+  "name": "임푼군",
+  "birth-title": "생일:",
+  "birth": "1994년 1월",
+  "locate-title": "거주지:",
+  "locate": "대한민국 서울",
+  "about-me": "나에 대해",
+  "article-1": "",
+  "article-2": "",
+  "article-3": "",
+  "university-name": "",
+  "university-date": "",
+  "university-position": "",
+  "high-school-name": "",
+  "high-school-date": "",
+  "high-school-position": "",
+  "company-1-name": "",
+  "company-1-date": "",
+  "company-1-position": "",
+  "company-1-tool": [],
+  "company-1-case": [{
+    "case-company": "",
+    "case-content": ""
+  },{
+    "case-company": "",
+    "case-content": ""
+  },{
+    "case-company": "",
+    "case-content": ""
+  }],
+  "company-2-name": "",
+  "company-2-date": "",
+  "company-2-position": "",
+  "company-2-tool": [],
+  "company-2-case": [{
+    "case-company": "",
+    "case-content": ""
+  },{
+    "case-company": "",
+    "case-content": ""
+  }]
+}
