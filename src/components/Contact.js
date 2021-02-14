@@ -1,4 +1,4 @@
-import ItemTitle from './ItemTitle';
+import ItemTitle from './common/ItemTitle';
 import insImg from '../assets/images/instagram.svg';
 import mediumImg from '../assets/images/medium.svg';
 import linkedinImg from '../assets/images/linkedin.svg';

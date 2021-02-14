@@ -1,4 +1,4 @@
-import ItemTitle from './ItemTitle';
+import ItemTitle from './common/ItemTitle';
 
 
 const Abilities = () => {

@@ -1,4 +1,4 @@
-import ItemTitle from './ItemTitle';
+import ItemTitle from './common/ItemTitle';
 import profileImg from '../assets/images/profile.jpg';
 
 const Profile = () => {
