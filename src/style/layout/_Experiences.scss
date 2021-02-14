@@ -5,8 +5,22 @@
     font-size: 1.5rem;
   }
   .content {
-    @media (min-width: 768px) {
+    @media (min-width: 992px) {
       border-left: 1px solid #888;
+    }
+  }
+  .agency {
+    &-name {
+      font-size: 18px;
+    }
+    &-work {
+      font-size: 14px;
+      line-height: 1.5;
+      margin-bottom: 10px;
+    }
+    &-tool {
+      font-size: 14px;
+      line-height: 1.5;
     }
   }
 }

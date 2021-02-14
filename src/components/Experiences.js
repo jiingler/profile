@@ -33,7 +33,7 @@ const Experiences = () => {
               <ExperienceItemName name={"三竹資訊股份有限公司 Mitake"} date={"Apr 2019 - Aug 2020"}/>
               <div className="col-lg-8 col-12 mb-3 p-2">
                 <ExperienceItemPosition position={"正職 - 前端工程師"}/>
-                <ul className="agency-tool mb-1 px-2">
+                <ul className="agency-tool mb-2 px-2">
                   <li>Angular開發框架</li>
                   <li>Bootstrap樣式庫</li>
                   <li>RWD響應式架構</li>
@@ -64,7 +64,7 @@ const Experiences = () => {
               <ExperienceItemName name={"香港商科銳投資控股有限公司台灣分公司 CBX Software"} date={"Apr 2017 - Feb 2019"} />
               <div className="col-lg-8 col-12 mb-3 p-2">
                 <ExperienceItemPosition position={"正職 - Mobile App工程師"}/>
-                <ul className="agency-tool mb-1 px-2">
+                <ul className="agency-tool mb-2 px-2">
                   <li>Ionic(Angular+Cordova)開發框架</li>
                   <li>RWD響應式架構</li>
                   <li>canvas 縮圖、畫圖</li>
