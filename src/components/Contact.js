@@ -8,7 +8,7 @@ const Contact = () => {
   return (
     <div id="contact" className="contact section">
       <div className="container">
-        <ItemTitle titleName="Contact" description="this is Contact"/>
+        <ItemTitle titleName="Contact Me" description="this is Contact"/>
         <div className="links row">
           <div className="contact-item col-md-6 col-3 my-md-3 my-2">
             <a href="mailto:jinglelin82@gmail.com">
@@ -19,7 +19,7 @@ const Contact = () => {
             </a>
           </div>
           <div className="contact-item col-md-6 col-3 my-md-3 my-2">
-            <a href="https://www.linkedin.com/in/jingle-lin-157260139/">
+            <a href="www.linkedin.com/in/ping-chun-lin">
               <div className="img-container">
                 <img src={linkedinImg} alt="linkedin-icon"/>
               </div>
