@@ -1,13 +1,19 @@
 
+import { useTranslation } from 'react-i18next';
+import { Suspense } from "react";
 const Header = () => {
+  const { t, i18n } = useTranslation();
+  console.log(t("header-title"))
   return (
-    <div className="jumbotron">
-      <div className="header container">
-        <h1 className="title">Lin Ping Chun</h1>
-        <p className="subtitle">Front-End Developer</p>
+    <Suspense fallback="loading">
+      <div className="jumbotron">
+        <div className="header container">
+          <h1 className="title">{t("header-title")}</h1>
+          <p className="subtitle">{t('header-subtitle')}</p>
+        </div>
+        <div className="overlay"/>
       </div>
-      <div className="overlay"/>
-    </div>
+    </Suspense>
   );
 }
 

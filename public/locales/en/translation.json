@@ -1,0 +1,46 @@
+{
+  "header-title": "Lin Ping Chun",
+  "header-subtitle": "Front-End Developer",
+  "basic-info": "Basic info",
+  "name-title": "Name:",
+  "name": "Lin Ping Chun",
+  "birth-title": "Birth:",
+  "birth": "Jan 1994",
+  "locate-title": "Locate:",
+  "locate": "Seoul, South Korea",
+  "about-me": "About me",
+  "article-1": "",
+  "article-2": "",
+  "article-3": "",
+  "university-name": "",
+  "university-date": "",
+  "university-position": "",
+  "high-school-name": "",
+  "high-school-date": "",
+  "high-school-position": "",
+  "company-1-name": "",
+  "company-1-date": "",
+  "company-1-position": "",
+  "company-1-tool": [],
+  "company-1-case": [{
+    "case-company": "",
+    "case-content": ""
+  },{
+    "case-company": "",
+    "case-content": ""
+  },{
+    "case-company": "",
+    "case-content": ""
+  }],
+  "company-2-name": "",
+  "company-2-date": "",
+  "company-2-position": "",
+  "company-2-tool": [],
+  "company-2-case": [{
+    "case-company": "",
+    "case-content": ""
+  },{
+    "case-company": "",
+    "case-content": ""
+  }]
+}

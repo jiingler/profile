@@ -1,0 +1,46 @@
+{
+  "header-title": "林品君 Lin Ping Chun",
+  "header-subtitle": "前端工程師 Front-End Developer",
+  "basic-info": "基本資料",
+  "name-title": "姓名：",
+  "name": "林品君",
+  "birth-title": "出生年月：",
+  "birth": "1994年 1月",
+  "locate-title": "現居地",
+  "locate": "南韓 首爾",
+  "about-me": "關於我",
+  "article-1": "",
+  "article-2": "",
+  "article-3": "",
+  "university-name": "",
+  "university-date": "",
+  "university-position": "",
+  "high-school-name": "",
+  "high-school-date": "",
+  "high-school-position": "",
+  "company-1-name": "",
+  "company-1-date": "",
+  "company-1-position": "",
+  "company-1-tool": [],
+  "company-1-case": [{
+    "case-company": "",
+    "case-content": ""
+  },{
+    "case-company": "",
+    "case-content": ""
+  },{
+    "case-company": "",
+    "case-content": ""
+  }],
+  "company-2-name": "",
+  "company-2-date": "",
+  "company-2-position": "",
+  "company-2-tool": [],
+  "company-2-case": [{
+    "case-company": "",
+    "case-content": ""
+  },{
+    "case-company": "",
+    "case-content": ""
+  }]
+}
