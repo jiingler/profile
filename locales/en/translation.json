@@ -12,35 +12,40 @@
   "article-1": "",
   "article-2": "",
   "article-3": "",
-  "university-name": "",
-  "university-date": "",
-  "university-position": "",
-  "high-school-name": "",
-  "high-school-date": "",
-  "high-school-position": "",
-  "company-1-name": "",
-  "company-1-date": "",
-  "company-1-position": "",
-  "company-1-tool": [],
+  "university-name": "Chang Gung University",
+  "university-date": "Sep 2012 - Jun 2016",
+  "university-position": "Information Management",
+  "high-school-name": "Taipei Municipal LiShan High School",
+  "high-school-date": "Sep 2009 - Jun 2012",
+  "high-school-position": "General Course",
+  "company-1-name": "Mitake",
+  "company-1-date": "Apr 2019 - Aug 2020",
+  "company-1-position": "Fulltime - Front-End Developer",
+  "company-1-tool": ["Angular Framework", "Boostrap style framework", "RWD", "CSS Animation"],
   "company-1-case": [{
-    "case-company": "",
-    "case-content": ""
+    "way": "",
+    "name": "D Electrical Industry",
+    "content": ""
   },{
-    "case-company": "",
-    "case-content": ""
+    "way": "",
+    "name": "N Funds",
+    "content": ""
   },{
-    "case-company": "",
-    "case-content": ""
+    "way": "",
+    "name": "N Funds",
+    "content": ""
   }],
-  "company-2-name": "",
-  "company-2-date": "",
-  "company-2-position": "",
-  "company-2-tool": [],
+  "company-2-name": "CBX Software Taiwan Branch Office",
+  "company-2-date": "Apr 2017 - Feb 2019",
+  "company-2-position": "Fulltime - Mobile App Developer",
+  "company-2-tool": ["Ionic Framework(with Angular & Cordova)", "RWD", "canvas"],
   "company-2-case": [{
-    "case-company": "",
-    "case-content": ""
+    "way": "",
+    "name": "",
+    "content": ""
   },{
-    "case-company": "",
-    "case-content": ""
+    "way": "",
+    "name": "",
+    "content": ""
   }]
 }
