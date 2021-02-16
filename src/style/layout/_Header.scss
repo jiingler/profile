@@ -6,6 +6,7 @@
   background-position: center;
   height: 100%;
   width: 100%;
+  position: relative;
   @media (min-width: 768px) {
     background-attachment: fixed;
   }
@@ -27,9 +28,9 @@
   .title,
   .subtitle {
     color: #fff;
-    font-family: "Lora", serif;
   }
   .title {
+    white-space: break-spaces;
     display: inline-block;
     font-size: 2rem;
     font-weight: 900;

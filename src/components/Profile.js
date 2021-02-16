@@ -14,7 +14,7 @@ const Profile = () => {
           <img src={profileImg} alt="profile-img" />
         </div>
         <div className="info col-lg-8 col-12">
-          <h3 className="title">{t('basic-info')}</h3>
+          <h3 className="title">Basic info</h3>
           <ul className="content">
             <li>
               <p><span className="fw-700 me-2">{t('name-title')}</span>{t('name')}</p>
@@ -26,7 +26,7 @@ const Profile = () => {
               <p><span className="fw-700 me-2">{t('locate-title')}</span>{t('locate')}</p>
             </li>
           </ul>
-          <h3 className="title">{t('about-me')}</h3>
+          <h3 className="title">About me</h3>
           <article>
             {t('article-1')}
           </article>
