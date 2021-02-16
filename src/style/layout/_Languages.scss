@@ -1,0 +1,13 @@
+.nav {
+  position: absolute;
+  right: 0;
+  top: 0;
+  z-index: 6;
+  button {
+    color: white;
+    padding: 5px;
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}
