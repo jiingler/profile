@@ -1,46 +1,54 @@
 {
-  "header-title": "林品君 Lin Ping Chun",
-  "header-subtitle": "前端工程師 Front-End Developer",
-  "basic-info": "基本資料",
-  "name-title": "姓名：",
-  "name": "林品君",
-  "birth-title": "出生年月：",
-  "birth": "1994年 1月",
-  "locate-title": "現居地",
-  "locate": "南韓 首爾",
-  "about-me": "關於我",
-  "article-1": "",
-  "article-2": "",
-  "article-3": "",
-  "university-name": "",
-  "university-date": "",
-  "university-position": "",
-  "high-school-name": "",
-  "high-school-date": "",
-  "high-school-position": "",
-  "company-1-name": "",
-  "company-1-date": "",
-  "company-1-position": "",
-  "company-1-tool": [],
+  "header-title": "임푼군 \n Lin Ping Chun",
+  "header-subtitle": "프론트엔드 개발자 Front-End Developer",
+  "basic-info": "기본정보",
+  "name-title": "이름:",
+  "name": "임푼군",
+  "birth-title": "생일:",
+  "birth": "1994년 1월",
+  "locate-title": "거주지:",
+  "locate": "대한민국 서울",
+  "about-me": "나에 대해",
+  "article-1": "저는 취업한지 3년이 된 프론트엔드 개발자 임푼군이라고 합니다. 제가 스스로 만든 웹 화면을 봐서 성취감이 나므로 프론트엔드를 좋아합니다. 가끔 온라인 수업도 들 거고 자기의 관념과 개발 속도를 강해지게 합니다.",
+  "article-2": "제가 혼자가 일을 하는 것을 좋아하고 팀과 같이 토의하는 분위기도 좋아합니다. 모르는 것이 있으면 동료와 같이 상의할 수 있고 만약 그 전에 제가 어떤 경험이 있었으면 저도 동료와 같이 공유할 것입니다. 생각이 많은데 표현을 잘 못하는 편입니다. 내성적인 사람이지만 다들 같이 노는 것도 좋습니다.",
+  "article-3": "제가 한 키우고 있는 고양이가 있고 쩐쭈라고 합니다. 시간이 날 때 제가 친구와 같이 농구를 하고 혼자 밖에 나가고 산책합니다. 저도 해외여행을 좋아하고 다음 여행지는 유럽입니다.",
+  "university-name": "Chang Gung University",
+  "university-date": "Sep 2012 - Jun 2016",
+  "university-position": "정보관리학 Information Management",
+  "high-school-name": "Taipei Municipal LiShan High School",
+  "high-school-date": "Sep 2009 - Jun 2012",
+  "high-school-position": "보통과 General Course",
+  "company-1-name": "Mitake",
+  "company-1-date": "Apr 2019 - Aug 2020",
+  "company-1-position": "정규직 - 프론트엔드 개발자",
+  "company-1-tool": ["Angular 프레임워크", "Boostrap 스타일 프레임워크", "RWD", "CSS 애니메이션"],
   "company-1-case": [{
-    "case-company": "",
-    "case-content": ""
+    "way": "혼자 개발:",
+    "name": "D Electrical Industry",
+    "content": "거래처회사 내부서 사용하는 표 시스템, 로그인 후에 표를 적성하며 보내할 수 있음."
   },{
-    "case-company": "",
-    "case-content": ""
+    "way": "혼자 개발:",
+    "name": "N Funds",
+    "content": "온라인 개좌를 만드는 기능을 가입합. 표를 적성하고 적성 설문조사를 하며 파일을 업로드하며 금융 서비스 연결함."
   },{
-    "case-company": "",
-    "case-content": ""
+    "way": "버그 픽스:",
+    "name": "N Funds",
+    "content": "기업 로직과 화면 UI을 조절함."
   }],
-  "company-2-name": "",
-  "company-2-date": "",
-  "company-2-position": "",
-  "company-2-tool": [],
+  "company-2-name": "CBX Software Taiwan Branch Office",
+  "company-2-date": "Apr 2017 - Feb 2019",
+  "company-2-position": "정규직 - 모바일 앱 개발자",
+  "company-2-tool": ["Ionic 프레임워크(Angular & Cordova와 함께)", "RWD", "canvas"],
   "company-2-case": [{
-    "case-company": "",
-    "case-content": ""
+    "way": "혼자 개발:",
+    "name": "회사 거래처 전용 sns 앱 - Capture",
+    "content": "거래처들의 회사가 만든 상품을 공유할 수 있고 다른 도매상이 상품을 살 수 있게 함."
   },{
-    "case-company": "",
-    "case-content": ""
-  }]
+    "way": "혼자 개발:",
+    "name": "회사 거래처 전용 심사 앱 - Capture",
+    "content": "생산 공장에 대한 자료를 기록할 수 있고 사진과 영상을 찍을 수 있으며 기록자가 사인할 수 있는 기능이 있음."
+  }],
+  "lang-zh": "중국어",
+  "lang-kr": "한국어",
+  "lang-en": "영어"
 }

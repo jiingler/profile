@@ -1,7 +1,8 @@
 import ItemTitle from './common/ItemTitle';
-
+import { useTranslation } from 'react-i18next'; 
 
 const Abilities = () => {
+  const { t, i18n } = useTranslation();
   return (
     <div id="abilities" className="abilities section">
       <ItemTitle titleName="Abilities" description="this is Abilities"/>
@@ -48,19 +49,19 @@ const Abilities = () => {
           <div className="level row mb-1 p-3">
             <h4 className="level-title col-lg-4">Native</h4>
             <ul className="col-lg-8">
-              <li>中文</li>
+              <li>{t('lang-zh')}</li>
             </ul>
           </div>
           <div className="level row mb-1 p-3">
             <h4 className="level-title col-lg-4">Intermediate</h4>
             <ul className="col-lg-8">
-              <li>韓語</li>
+              <li>{t('lang-kr')}</li>
             </ul>
           </div>
           <div className="level row p-3">
             <h4 className="level-title col-lg-4">Basic</h4>
             <ul className="col-lg-8">
-              <li>英文</li>
+              <li>{t('lang-en')}</li>
             </ul>
           </div>
         </div>
