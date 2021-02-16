@@ -9,9 +9,9 @@
   "locate-title": "Locate:",
   "locate": "Seoul, South Korea",
   "about-me": "About me",
-  "article-1": "",
-  "article-2": "",
-  "article-3": "",
+  "article-1": "I am a front-end engineer with three years of work experience. I am neither senior nor a rookie. I like front-end work and feel very fulfilling in the Web pages I carve out. Occasionally I watch some online courses to strengthen my Web sense and development skills.",
+  "article-2": "I like independent development and the atmosphere of discussing with the team. I have a lot of ideas, but I'm not good at expressing them; I don't talk much, I am an introvert, but I also like to play with everyone. If I don’t understand, I will discuss it with my partner. If I have some previous experience, I will share it with my work partner.",
+  "article-3": "I have a cat named Jen Ju, a tabby white Mix. If I have time, I like to play basketball with friends, and I also like to go out on my own. Like to travel abroad, my next goal is to travel to Europe.",
   "university-name": "Chang Gung University",
   "university-date": "Sep 2012 - Jun 2016",
   "university-position": "Information Management",
@@ -23,29 +23,32 @@
   "company-1-position": "Fulltime - Front-End Developer",
   "company-1-tool": ["Angular Framework", "Boostrap style framework", "RWD", "CSS Animation"],
   "company-1-case": [{
-    "way": "",
+    "way": "Independent Development:",
     "name": "D Electrical Industry",
-    "content": ""
+    "content": "The internal form system of the client company can fill in and submit the form after logging in."
   },{
-    "way": "",
+    "way": "Independent Development:",
     "name": "N Funds",
-    "content": ""
+    "content": "Add online opening account function, including form data filling, suitability questionnaire survey, file uploading and certification of linking with financial services."
   },{
-    "way": "",
+    "way": "Fixing Bugs:",
     "name": "N Funds",
-    "content": ""
+    "content": "To adjust the internal enterprise logic and screen modification."
   }],
   "company-2-name": "CBX Software Taiwan Branch Office",
   "company-2-date": "Apr 2017 - Feb 2019",
   "company-2-position": "Fulltime - Mobile App Developer",
   "company-2-tool": ["Ionic Framework(with Angular & Cordova)", "RWD", "canvas"],
   "company-2-case": [{
-    "way": "",
-    "name": "",
-    "content": ""
+    "way": "Independent Development:",
+    "name": "Community App for Corporate Customers - Capture",
+    "content": "Allow customers to share products manufactured by their company and make other wholesalers buy."
   },{
-    "way": "",
-    "name": "",
-    "content": ""
-  }]
+    "way": "Independent Development:",
+    "name": "Audit App for company customers - Audit",
+    "content": "Record some relevant information of the production plant, can take photos, video records and recorder's signature function."
+  }],
+  "lang-zh": "Chinese",
+  "lang-kr": "Korean",
+  "lang-en": "English"
 }
