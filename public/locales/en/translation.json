@@ -21,7 +21,7 @@
   "company-1-name": "Mitake",
   "company-1-date": "Apr 2019 - Aug 2020",
   "company-1-position": "Fulltime - Front-End Developer",
-  "company-1-tool": ["Angular Framework", "Boostrap style framework", "RWD", "CSS Animation"],
+  "company-1-tool": ["Angular Framework", "Bootstrap style framework", "RWD", "CSS Animation"],
   "company-1-case": [{
     "way": "Independent Development:",
     "name": "D Electrical Industry",

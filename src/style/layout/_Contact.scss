@@ -1,9 +1,9 @@
 .contact {
-  background-color: #363b41;
+  background-color: $dark-gray;
   .links {
     padding: 0 20px;
     @media (min-width: 768px) {
-      padding: 0 120px;
+      padding: 0 100px;
     }
     @media (min-width: 992px) {
       padding: 0 180px;

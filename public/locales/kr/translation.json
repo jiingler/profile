@@ -21,7 +21,7 @@
   "company-1-name": "Mitake",
   "company-1-date": "Apr 2019 - Aug 2020",
   "company-1-position": "정규직 - 프론트엔드 개발자",
-  "company-1-tool": ["Angular 프레임워크", "Boostrap 스타일 프레임워크", "RWD", "CSS 애니메이션"],
+  "company-1-tool": ["Angular 프레임워크", "Bootstrap 스타일 프레임워크", "RWD", "CSS 애니메이션"],
   "company-1-case": [{
     "way": "혼자 개발:",
     "name": "D Electrical Industry",
@@ -45,7 +45,7 @@
     "content": "거래처들의 회사가 만든 상품을 공유할 수 있고 다른 도매상이 상품을 살 수 있게 함."
   },{
     "way": "혼자 개발:",
-    "name": "회사 거래처 전용 심사 앱 - Capture",
+    "name": "회사 거래처 전용 심사 앱 - Audit",
     "content": "생산 공장에 대한 자료를 기록할 수 있고 사진과 영상을 찍을 수 있으며 기록자가 사인할 수 있는 기능이 있음."
   }],
   "lang-zh": "중국어",
