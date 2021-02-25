@@ -48,6 +48,13 @@
     "name": "Audit App for company customers - Audit",
     "content": "Record some relevant information of the production plant, can take photos, video records and recorder's signature function."
   }],
+  "project":[
+    {
+      "title": "hipster.korea",
+      "description": "A website lists korean shopping websites that categoried by what they sell.",
+      "tags": "Bootstrap, React Hooks, Data Binding"
+    }
+  ],
   "lang-zh": "Chinese",
   "lang-kr": "Korean",
   "lang-en": "English"

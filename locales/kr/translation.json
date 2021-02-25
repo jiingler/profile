@@ -48,6 +48,13 @@
     "name": "회사 거래처 전용 심사 앱 - Audit",
     "content": "생산 공장에 대한 자료를 기록할 수 있고 사진과 영상을 찍을 수 있으며 기록자가 사인할 수 있는 기능이 있음."
   }],
+  "project":[
+    {
+      "title": "hipster.korea",
+      "description": "판매 품목별로 분류하는 한국 사이트 리스트를 제공하는 사이트입니다.",
+      "tags": "Bootstrap, React Hooks, Data Binding"
+    }
+  ],
   "lang-zh": "중국어",
   "lang-kr": "한국어",
   "lang-en": "영어"

@@ -48,6 +48,13 @@
     "name": "公司客戶專用審核App - Audit",
     "content": "記錄一些生產工廠的有關資料，可拍照、錄影紀錄還有紀錄者簽名功能。"
   }],
+  "project":[
+    {
+      "title": "hipster.korea",
+      "description": "一個提供根據銷售類別分類的韓國網站清單。",
+      "tags": "Bootstrap, React Hooks, Data Binding"
+    }
+  ],
   "lang-zh": "中文",
   "lang-kr": "韓文",
   "lang-en": "英文"
