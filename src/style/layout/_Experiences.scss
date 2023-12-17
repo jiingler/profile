@@ -21,6 +21,21 @@
     &-tool {
       font-size: 14px;
       line-height: 1.5;
+      align-items: center;
+      flex-wrap: wrap;
+      > li {
+        word-break: keep-all;
+        white-space: nowrap;
+        background-color: white;
+        padding: 6px;
+        border-radius: 10px;
+        margin-right: 4px;
+        font-size: 12px;
+        margin-bottom: 4px;
+      }
+    }
+    &-position {
+      font-size: 22px;
     }
   }
 }

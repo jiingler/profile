@@ -9,45 +9,71 @@
   "locate-title": "Locate:",
   "locate": "Seoul, South Korea",
   "about-me": "About me",
-  "article-1": "I am a front-end engineer with three years of work experience. I am neither senior nor a rookie. I like front-end work and feel very fulfilling in the Web pages I carve out. Occasionally I watch some online courses to strengthen my Web sense and development skills.",
-  "article-2": "I like independent development and the atmosphere of discussing with the team. I have a lot of ideas, but I'm not good at expressing them; I don't talk much, I am an introvert, but I also like to play with everyone. If I don’t understand, I will discuss it with my partner. If I have some previous experience, I will share it with my work partner.",
-  "article-3": "I have a cat named Jen Ju, a tabby white Mix. If I have time, I like to play basketball with friends, and I also like to go out on my own. Like to travel abroad, my next goal is to travel to Europe.",
+  "article-1": "I am a front-end engineer with five years of experience, focusing on the completeness of the interface and the smoothness of application use. I timely bring up challenges encountered in the development process, discuss with the team, and identify the best approaches to improve the development process.",
+  "article-2": "I specialize in Angular development and have experience in various project domains, while also exploring other front-end technologies. Recently, I've been working on a side project using React and have experience in developing back-end with Python..",
+  "article-3": "I have a cat named Jen Ju, a tabby and white mix. In my free time, I enjoy playing basketball with friends and going out for walks alone. I like challenges and am not content with the status quo. If I find that my surroundings offer limited growth, I seek opportunities that propel me forward.",
   "university-name": "Chang Gung University",
   "university-date": "Sep 2012 - Jun 2016",
   "university-position": "Information Management",
   "high-school-name": "Taipei Municipal LiShan High School",
   "high-school-date": "Sep 2009 - Jun 2012",
   "high-school-position": "General Course",
+  "company-3-name": "Mazelone, Seoul, South Korea",
+  "company-3-date": "May 2021 - Present",
+  "company-3-position": "Frontend Developer",
+  "company-3-tool": ["Angular Framework", "Bootstrap style framework", "RWD", "Micro Frontend", "Bluetooth IoT", "React Native"],
+  "company-3-points": [{
+    "title": "Led Front-End Development Team:",
+    "description": "Responsible for front-end projects, including interface design and architectural planning. Saving annual costs of 1 million NTD."
+  },{
+    "title": "Technical Integration and Cost Savings:",
+    "description": "Integrated microfrontend concepts and Bluetooth IoT technology, expanding service range by 40%."
+  },{
+    "title": "Data Visualization Enhancement:",
+    "description": "Utilized Chartjs library to improve data visualization, increasing customer satisfaction by 80%."
+  },{
+    "title": "Cross-Department Collaboration and Process Optimization:",
+    "description": "Optimize data exchange structure and documentation with the backend team, enhancing team communication and development efficiency by 40%, and reducing product time-to-market."
+  }],
   "company-1-name": "Mitake",
   "company-1-date": "Apr 2019 - Aug 2020",
-  "company-1-position": "Fulltime - Front-End Developer",
-  "company-1-tool": ["Angular Framework", "Bootstrap style framework", "RWD", "CSS Animation"],
-  "company-1-case": [{
-    "way": "Independent Development:",
-    "name": "D Electrical Industry",
-    "content": "The internal form system of the client company can fill in and submit the form after logging in."
+  "company-1-position": "Frontend Developer",
+  "company-1-tool": ["Angular Framework", "Bootstrap style framework", "RWD", "CSS Animation", "Jasmine test framework"],
+  "company-1-points": [{
+    "title": "Cross-Platform Development and User Experience:",
+    "description": "Implemented RWD and cross-browser compatibility issues, increasing user satisfaction by 80%."
   },{
-    "way": "Independent Development:",
-    "name": "N Funds",
-    "content": "Add online opening account function, including form data filling, suitability questionnaire survey, file uploading and certification of linking with financial services."
+    "title": "Financial System Data Exchange and Identity Verification:",
+    "description": "Interfaced with financial systems for user identity verification, enhancing reliability of system."
   },{
-    "way": "Fixing Bugs:",
-    "name": "N Funds",
-    "content": "To adjust the internal enterprise logic and screen modification."
+    "title": "Angular Jasmine Testing Framework Implementation:",
+    "description": "Used testing framework, reducing error rates and improving development efficiency by 70%."
   }],
   "company-2-name": "CBX Software Taiwan Branch Office",
   "company-2-date": "Apr 2017 - Feb 2019",
-  "company-2-position": "Fulltime - Mobile App Developer",
+  "company-2-position": "Mobile App Developer",
   "company-2-tool": ["Ionic Framework(with Angular & Cordova)", "RWD", "canvas"],
-  "company-2-case": [{
-    "way": "Independent Development:",
-    "name": "Community App for Corporate Customers - Capture",
-    "content": "Allow customers to share products manufactured by their company and make other wholesalers buy."
+  "company-2-points": [{
+    "title": "Agile Development and International Team Collaboration:",
+    "description": "Actively participated in the team's Scrum agile development process; collaborated with project teams in foreign branches, enhancing foreign language communication skills."
   },{
-    "way": "Independent Development:",
-    "name": "Audit App for company customers - Audit",
-    "content": "Record some relevant information of the production plant, can take photos, video records and recorder's signature function."
+    "title": "Canvas Implementation:",
+    "description": "Used Canvas to implement hand-drawn signature features, shortening inspection process, and increasing user satisfaction by 20%."
+  },{
+    "title": "Cross-Platform Development and Local Data Storage:",
+    "description": "Introduced Ionic framework for cross-platform app development and responsive web design; used SQLite for data storage and synchronization in offline environments."
+  },{
+    "title": "Training and Rapid Integration of Newcomers:",
+    "description": "Led new colleagues with no experience to familiarize with the development process, enabling them to quickly join the development work within two weeks, improving team output efficiency."
   }],
+  "project":[
+    {
+      "title": "Fu-Fu-Tang TCM Clinic Website",
+      "description": "Information about Fu-Fu-Tang TCM Clinic",
+      "tags": "React Hooks, Flask with Python, MongoDb, Railway",
+      "link": "https://www.fufutang.com.tw/"
+    }
+  ],
   "lang-zh": "Chinese",
   "lang-kr": "Korean",
   "lang-en": "English"

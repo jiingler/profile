@@ -1,12 +1,12 @@
-import 'reset-css';
-import './App.scss';
+import "reset-css";
+import "./App.scss";
 
-import Header from './components/Header';
-import Profile from './components/Profile';
-import Experiences from './components/Experiences';
-import Abilities from './components/Abilities';
-import Projects from './components/Projects';
-import Contact from './components/Contact';
+import Header from "./components/Header";
+import Profile from "./components/Profile";
+import Experiences from "./components/Experiences";
+import Abilities from "./components/Abilities";
+import Projects from "./components/Projects";
+import Contact from "./components/Contact";
 
 function App() {
   return (
@@ -16,9 +16,9 @@ function App() {
         <Profile />
       </div>
       <Experiences />
-      <div className="container">
+      {/* <div className="container">
         <Abilities />
-      </div>
+      </div> */}
       <Projects />
       <Contact />
     </div>
