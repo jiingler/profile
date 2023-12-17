@@ -24,7 +24,14 @@ const Languages = () => {
           English
         </button>
       </li>
-      {/* <li><button onClick={() => changeLanguage('kr')} className="btn btn-outline">한국어</button></li> */}
+      <li>
+        <button
+          onClick={() => changeLanguage("kr")}
+          className="btn btn-outline"
+        >
+          한국어
+        </button>
+      </li>
     </ul>
   );
 };
