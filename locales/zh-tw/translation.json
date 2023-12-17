@@ -1,0 +1,80 @@
+{
+  "header-title": "林品君 \n Lin Ping Chun",
+  "header-subtitle": "前端工程師 Front-End Developer",
+  "basic-info": "基本資料",
+  "name-title": "姓名：",
+  "name": "林品君",
+  "birth-title": "出生年月：",
+  "birth": "1994年 1月",
+  "locate-title": "現居地：",
+  "locate": "南韓 首爾",
+  "about-me": "關於我",
+  "article-1": "我是一位擁有五年經驗的前端工程師，注重畫面的完成度及應用使用流暢度。適時提出在開發流程上遇到的困難點，與團隊一起討論，並找出最合適的方法進而改善開發流程。",
+  "article-2": "專職在Angular開發，擁有多種領域的專案開發經歷，並同時鑽研其他前端技術。近期有在用React做side project，也有用python開發後端的經驗。",
+  "article-3": "我有一隻貓，叫珍珠，是一隻虎斑白的米克斯。有時間的話，我喜歡和朋友一起打籃球，也喜歡自己出門走走。喜歡挑戰、不安於現狀，如果發現身邊的環境發展有限，就會去追求能讓自己往前的機會。",
+  "university-name": "私立長庚大學",
+  "university-date": "Sep 2012 - Jun 2016",
+  "university-position": "資訊管理學系",
+  "high-school-name": "臺北市立麗山高級中學",
+  "high-school-date": "Sep 2009 - Jun 2012",
+  "high-school-position": "普通科",
+  "company-3-name": "Mazelone, Seoul, South Korea",
+  "company-3-date": "May 2021 - 在職中",
+  "company-3-position": "前端工程師",
+  "company-3-tool": ["Angular開發框架", "Bootstrap樣式庫", "RWD響應式架構", "Micro Frontend微前端", "藍芽IoT", "React Native"],
+  "company-3-points": [{
+    "title": "領導前端開發團隊:",
+    "description": "負責策劃和實施公司前端專案，包括介面設計和架構規劃。 主導使用Angular 15和React Native、Ionic 3進行前端開發、維護及性能優化。"
+  },{
+    "title": "技術整合與成本節約:",
+    "description": "成功導入微前端概念和藍芽IoT技術，加強與他社產品整 合，擴大服務範圍40%;同時簡化開發流程，節省年度人力成本100萬元。"
+  },{
+    "title": "資料視覺化提升:",
+    "description": "利用Chartjs套件，改善數據呈現方式，提升客戶滿意度至 80%，促進客戶理解和決策效率。"
+  },{
+    "title": "跨部門協作與流程優化:",
+    "description": "與後端團隊合作優化資料交換架構並提出文件完善計 畫，提升團隊溝通及開發效率25%，縮短產品上市時間。"
+  }],
+  "company-2-name": "三竹資訊股份有限公司 Mitake",
+  "company-2-date": "Apr 2019 - Aug 2020",
+  "company-2-position": "前端工程師",
+  "company-2-tool": ["Angular開發框架", "Bootstrap樣式庫", "RWD響應式架構", "CSS動畫", "Jasmine測試"],
+  "company-2-points": [{
+    "title": "跨平台開發與使用者體驗:",
+    "description": "實現響應式網頁設計及處理跨瀏覽器相容性問題;也 與iOS團隊合作，整合網頁至iOS Webkit，提升用戶滿意度80%。"
+  },{
+    "title": "金融系統資料交換與身份驗證:",
+    "description": "成功與金融系統接口，實現資料交換和使用者身 份驗證，增強了系統的安全性和可靠性。"
+  },{
+    "title": "Angular Jasmine測試框架的導入",
+    "description": "引入Angular Jasmine測試框架，有效降低 了開發中的錯誤率，並提高了70%的開發效率。"
+  }],
+  "company-1-name": "香港商科銳投資控股有限公司台灣分公司 CBX Software",
+  "company-1-date": "Apr 2017 - Feb 2019",
+  "company-1-position": "Mobile App工程師",
+  "company-1-tool": ["Ionic(Angular+Cordova)開發框架", "RWD響應式架構", "canvas 縮圖、畫圖", "Scrum敏捷開發"],
+  "company-1-points": [{
+    "title": "敏捷開發與國際團隊協作:",
+    "description": "積極參與團隊的Scrum敏捷開發流程，提升團隊開發 效率達到30%;與國外分公司的專案團隊溝通協作，提升外語溝通能力。"
+  },{
+    "title": "Canvas技術實現與優化:",
+    "description": "利用Canvas技術實現手繪簽名功能，改善使用者體 驗，縮短檢驗流程時間，提高用戶滿意度50%。"
+  },{
+    "title": "跨平台開發及本機資料儲存:",
+    "description": "導入Ionic框架，開發跨平台應用，並實現響應式 網頁設計;在無網路環境下使用SQLite進行資料儲存與同步。"
+  },{
+    "title": "新人培訓與快速融入:",
+    "description": "帶領新進無經驗同事熟悉開發流程，使其在兩週內能夠快 速加入開發工作，提升團隊整體產出效率。"
+  }],
+  "project":[
+    {
+      "title": "福福堂中醫診所官方網站",
+      "description": "關於福福堂中醫診所的資訊",
+      "tags": "React Hooks, Flask with Python, MongoDb, Railway",
+      "link": "https://www.fufutang.com.tw/"
+    }
+  ],
+  "lang-zh": "中文",
+  "lang-kr": "韓文",
+  "lang-en": "英文"
+}
