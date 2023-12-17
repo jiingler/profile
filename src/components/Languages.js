@@ -10,7 +10,7 @@ const Languages = () => {
     <ul className="nav d-flex">
       <li>
         <button
-          onClick={() => changeLanguage("zh-TW")}
+          onClick={() => changeLanguage("zh-tw")}
           className="btn btn-outline"
         >
           中文
