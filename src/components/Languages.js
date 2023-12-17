@@ -10,7 +10,7 @@ const Languages = () => {
     <ul className="nav d-flex">
       <li>
         <button
-          onClick={() => changeLanguage("zh-TW")}
+          onClick={() => changeLanguage("zh-tw")}
           className="btn btn-outline"
         >
           中文
@@ -24,14 +24,14 @@ const Languages = () => {
           English
         </button>
       </li>
-      <li>
+      {/* <li>
         <button
           onClick={() => changeLanguage("kr")}
           className="btn btn-outline"
         >
           한국어
         </button>
-      </li>
+      </li> */}
     </ul>
   );
 };
