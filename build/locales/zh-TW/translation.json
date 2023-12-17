@@ -1,0 +1,61 @@
+{
+  "header-title": "林品君 \n Lin Ping Chun",
+  "header-subtitle": "前端工程師 Front-End Developer",
+  "basic-info": "基本資料",
+  "name-title": "姓名：",
+  "name": "林品君",
+  "birth-title": "出生年月：",
+  "birth": "1994年 1月",
+  "locate-title": "現居地：",
+  "locate": "南韓 首爾",
+  "about-me": "關於我",
+  "article-1": "我是一位有三年工作經驗的前端工程師，不算資深，也不算菜鳥，喜歡前端的工作，對自己刻出來的畫面感到很有成就感。偶爾也看一些線上課程，加強自己的觀念及開發速度。",
+  "article-2": "我喜歡獨立開發，也喜歡和團隊一起討論的氛圍。有很多想法，但是不擅長表達；話不多，屬於內向的人，但也喜歡跟大家玩在一起。有不懂的地方，會和夥伴一起討論，若自己先前有一些經驗，也會和工作夥伴一起分享。",
+  "article-3": "我有一隻貓，叫珍珠，是一隻虎斑白的米克斯。有時間的話，我喜歡和朋友一起打籃球，也喜歡自己出門走走。喜歡到國外旅遊，下一個目標是歐洲旅遊。",
+  "university-name": "私立長庚大學",
+  "university-date": "Sep 2012 - Jun 2016",
+  "university-position": "資訊管理學系",
+  "high-school-name": "臺北市立麗山高級中學",
+  "high-school-date": "Sep 2009 - Jun 2012",
+  "high-school-position": "普通科",
+  "company-1-name": "三竹資訊股份有限公司 Mitake",
+  "company-1-date": "Apr 2019 - Aug 2020",
+  "company-1-position": "正職 - 前端工程師",
+  "company-1-tool": ["Angular開發框架", "Bootstrap樣式庫", "RWD響應式架構", "CSS動畫"],
+  "company-1-case": [{
+    "way": "獨立開發：",
+    "name": "D電工公司",
+    "content": "客戶公司內部的表單系統，登入後，可以進行表單填寫及送出。"
+  },{
+    "way": "獨立開發：",
+    "name": "N基金公司",
+    "content": "新增線上開戶功能，內容有表單資料填寫、適性問卷調查、檔案上傳及與金融服務連結認證等。"
+  },{
+    "way": "調整修正功能：",
+    "name": "N基金公司",
+    "content": "主要功能是調整內部企業邏輯及畫面修改。"
+  }],
+  "company-2-name": "香港商科銳投資控股有限公司台灣分公司 CBX Software",
+  "company-2-date": "Apr 2017 - Feb 2019",
+  "company-2-position": "正職 - Mobile App工程師",
+  "company-2-tool": ["Ionic(Angular+Cordova)開發框架", "RWD響應式架構", "canvas 縮圖、畫圖"],
+  "company-2-case": [{
+    "way": "獨立開發：",
+    "name": "公司客戶專用社群App - Capture",
+    "content": "讓客戶可以分享其公司製造的產品，使其他批發商購買。"
+  },{
+    "way": "獨立開發：",
+    "name": "公司客戶專用審核App - Audit",
+    "content": "記錄一些生產工廠的有關資料，可拍照、錄影紀錄還有紀錄者簽名功能。"
+  }],
+  "project":[
+    {
+      "title": "hipster.korea",
+      "description": "一個提供根據銷售類別分類的韓國網站清單。",
+      "tags": "Bootstrap, React Hooks, Data Binding"
+    }
+  ],
+  "lang-zh": "中文",
+  "lang-kr": "韓文",
+  "lang-en": "英文"
+}
